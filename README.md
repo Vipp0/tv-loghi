@@ -19,6 +19,12 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 | Cinema Thriller | <img src="cinema/epg/cinema-thriller.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-thriller.png` |
 | Cinema Drama | <img src="cinema/epg/cinema-drama.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-drama.png` |
 
+## Tematici mensili – loghi EPG
+
+| Canale | Logo | Indirizzo da usare in Tunarr |
+|---|---|---|
+| Cinema HP | <img src="tematici/cinema-hp.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/tematici/cinema-hp.png` |
+
 ## Loghi TV (bianchi, per il watermark in onda)
 
 In `cinema/tv/`. Il watermark lo applica Tunarr al video, quindi qui servono solo come copia di riserva.
