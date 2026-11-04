@@ -23,7 +23,7 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 
 | Canale | Logo | Indirizzo da usare in Tunarr |
 |---|---|---|
-| Cinema HP | <img src="tematici/cinema-hp.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/tematici/cinema-hp.png` |
+| Cinema HP | <img src="tematici/cinema-hp-v2.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/tematici/cinema-hp-v2.png` |
 
 ## Loghi TV (bianchi, per il watermark in onda)
 
