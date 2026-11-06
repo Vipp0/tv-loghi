@@ -10,14 +10,14 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 
 | Canale | Logo | Indirizzo da usare in Tunarr |
 |---|---|---|
-| Cinema Uno | <img src="cinema/epg/cinema-uno.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-uno.png` |
-| Cinema Due | <img src="cinema/epg/cinema-due.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-due.png` |
-| Cinema Tre | <img src="cinema/epg/cinema-tre.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-tre.png` |
-| Cinema Action | <img src="cinema/epg/cinema-action.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-action.png` |
+| Cinema Uno | <img src="cinema/epg/cinema-uno-v2.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-uno-v2.png` |
+| Cinema Due | <img src="cinema/epg/cinema-due-v2.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-due-v2.png` |
+| Cinema Tre | <img src="cinema/epg/cinema-tre-v2.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-tre-v2.png` |
+| Cinema Action | <img src="cinema/epg/cinema-action-v2.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-action-v2.png` |
 | Cinema Comedy | <img src="cinema/epg/cinema-comedy.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-comedy.png` |
 | Cinema Classic | <img src="cinema/epg/cinema-classic.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-classic.png` |
 | Cinema Thriller | <img src="cinema/epg/cinema-thriller.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-thriller.png` |
-| Cinema Drama | <img src="cinema/epg/cinema-drama.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-drama.png` |
+| Cinema Drama | <img src="cinema/epg/cinema-drama-v2.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/cinema/epg/cinema-drama-v2.png` |
 
 ## Tematici mensili – loghi EPG
 
