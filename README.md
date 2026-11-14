@@ -25,6 +25,12 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 |---|---|---|
 | Cinema HP | <img src="tematici/cinema-hp-v3.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/tematici/cinema-hp-v3.png` |
 
+## Canali generalisti – loghi EPG
+
+| Canale | Logo | Indirizzo da usare in Tunarr |
+|---|---|---|
+| TV Series 80 | <img src="generalisti/epg/tv-series-80.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/generalisti/epg/tv-series-80.png` |
+
 ## Loghi TV (bianchi, per il watermark in onda)
 
 In `cinema/tv/`. Il watermark lo applica Tunarr al video, quindi qui servono solo come copia di riserva.
