@@ -37,7 +37,7 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 |---|---|---|
 | Cinema Christmas | <img src="natale/epg/cinema-christmas.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/natale/epg/cinema-christmas.png` |
 | Cinema Classic Xmas | <img src="natale/epg/cinema-classic-xmas.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/natale/epg/cinema-classic-xmas.png` |
-| Christmas TV | <img src="natale/epg/christmas-tv.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/natale/epg/christmas-tv.png` |
+| Christmas TV | <img src="natale/epg/christmas-tv-v2.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/natale/epg/christmas-tv-v2.png` |
 
 ## Loghi TV (bianchi, per il watermark in onda)
 
