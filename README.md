@@ -24,6 +24,7 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 | Canale | Logo | Indirizzo da usare in Tunarr |
 |---|---|---|
 | Cinema HP | <img src="tematici/cinema-hp-v3.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/tematici/cinema-hp-v3.png` |
+| Cinema Scrooge | <img src="tematici/cinema-scrooge.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/tematici/cinema-scrooge.png` |
 
 ## Canali generalisti – loghi EPG
 
