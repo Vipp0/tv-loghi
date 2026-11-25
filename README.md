@@ -31,9 +31,17 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 |---|---|---|
 | TV Series 80 | <img src="generalisti/epg/tv-series-80.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/generalisti/epg/tv-series-80.png` |
 
+## Famiglia Natale – loghi EPG
+
+| Canale | Logo | Indirizzo da usare in Tunarr |
+|---|---|---|
+| Cinema Christmas | <img src="natale/epg/cinema-christmas.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/natale/epg/cinema-christmas.png` |
+| Cinema Classic Xmas | <img src="natale/epg/cinema-classic-xmas.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/natale/epg/cinema-classic-xmas.png` |
+| Christmas TV | <img src="natale/epg/christmas-tv.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/natale/epg/christmas-tv.png` |
+
 ## Loghi TV (bianchi, per il watermark in onda)
 
-In `cinema/tv/`. Il watermark lo applica Tunarr al video, quindi qui servono solo come copia di riserva.
+In `cinema/tv/`, `generalisti/tv/` e `natale/tv/`. Il watermark lo applica Tunarr al video, quindi qui servono solo come copia di riserva.
 
 ## Note
 
