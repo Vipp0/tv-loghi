@@ -44,7 +44,7 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 
 ## Loghi TV (bianchi, per il watermark in onda)
 
-In `cinema/tv/`, `generalisti/tv/` e `natale/tv/`. Il watermark lo applica Tunarr al video, quindi qui servono solo come copia di riserva.
+In `cinema/tv/`, `generalisti/tv/`, `natale/tv/` e `tematici/tv/`. Il watermark lo applica Tunarr al video: qui servono come copia da scaricare (es. per il Tunarr di casa).
 
 ## Note
 
