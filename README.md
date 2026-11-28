@@ -31,6 +31,7 @@ così i loghi compaiono anche nella guida delle app Plex (Apple TV, iOS, Android
 | Canale | Logo | Indirizzo da usare in Tunarr |
 |---|---|---|
 | TV Series 80 | <img src="generalisti/epg/tv-series-80.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/generalisti/epg/tv-series-80.png` |
+| Starchannel | <img src="generalisti/epg/starchannel.png" height="40"> | `https://raw.githubusercontent.com/Vipp0/tv-loghi/main/generalisti/epg/starchannel.png` |
 
 ## Famiglia Natale – loghi EPG
 
